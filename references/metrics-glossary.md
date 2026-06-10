@@ -1,0 +1,23 @@
+# Metrics Glossary
+
+- PCE: power conversion efficiency. Specify scan/stabilized/certified.
+- Stabilized PCE: steady output after holding near maximum power point.
+- Certified efficiency: independently measured by an accredited or recognized lab.
+- Voc: open-circuit voltage.
+- Jsc: short-circuit current density; compare with EQE-integrated current.
+- FF: fill factor; sensitive to series resistance, shunts, recombination, and subcell mismatch.
+- EQE-integrated Jsc: current calculated from external quantum efficiency and reference spectrum.
+- Active area: electrically active device area.
+- Aperture area: illuminated area defined by mask/aperture; often more conservative.
+- Designated illumination area: test-defined illuminated area; verify for certification.
+- Module area: full module or aperture module area; not comparable to small-cell active area.
+- Hysteresis: scan-direction or scan-rate dependence in JV.
+- MPP tracking: maximum power point tracking over time.
+- T80/T90: time to 80%/90% of initial or stabilized performance.
+- Voc deficit: bandgap-derived voltage loss, often Eg/q - Voc.
+- Current matching: 2T tandem subcells must carry the same current.
+- Energy yield: expected or measured energy output over time under real conditions.
+- Geometric fill factor: active photovoltaic area divided by total module area.
+- Parasitic absorption: optical loss in non-absorber layers such as TCO, transport layers, or electrodes.
+- Recombination/interconnection layer: layer connecting subcells in a monolithic tandem.
+- Bandgap: absorber optical gap; top and bottom bandgaps define tandem current/voltage balance.
